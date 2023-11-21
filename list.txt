@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Izotova Ekaterina Evgen'evna
+=======
+Yandex Lyceum Ru list
+>>>>>>> feature/YandexLycList
